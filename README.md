@@ -1,2 +1,2 @@
-# LSTN-
-LSTN生成周杰伦歌词notebook
+# LSTM
+LSTM生成周杰伦歌词notebook
